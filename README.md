@@ -28,4 +28,4 @@ JavaScript (ES6)
 
 # Ekran Görüntüsü
 
-![](ekran.mp4)
+![](ekran.gif)
